@@ -7,7 +7,5 @@
 </div>
 
 ### :fire: My Stats :
-<div>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OukiLove&theme=dark&hide_border=true)](https://git.io/streak-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OukiLove&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OukiLove&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OukiLove&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
