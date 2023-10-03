@@ -12,5 +12,5 @@
     :fire: My Stats
 </h1>
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=OukiLove&theme=iceberg&hide_border=true&border_radius=0&background=EB000000)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com?user=OukiLove&theme=iceberg&hide_border=true&border_radius=0&background=EB000000" alt="stat" /><br>
 </div>
