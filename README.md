@@ -1,16 +1,26 @@
 <h1 align="center">
-    :hammer_and_wrench: Languages and tools
+    :hammer_and_wrench: My Tools
 </h1>
+
 <div align="center">
-    <img src="./img/C++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="./img/Py.png" title="Py" alt="Py" width="40" height="40"/>&nbsp;
-    <img src="./img/JS.png" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-    <img src="./img/git.png" title="git" alt="git" width="40" height="40"/>&nbsp;
+    <img src="./img/c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="./img/rs.png" title="RS" alt="RS" width="40" height="40"/>&nbsp;
+    <img src="./img/linux.png" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
 </div>
 
 <h1 align="center">
-    :fire: My Stats
+    :floppy_disk: Stats
 </h1>
+
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Ouki76&theme=iceberg&hide_border=true&border_radius=0&background=EB000000" alt="stat" /><br>
+    <img src="https://codeium.com/profile/moodily-commanding-anglerfish-50357/card.png" width="500"/>
+</div>
+
+<h1 align="center">
+    :fire: My Socials 
+</h1>
+
+<div align="center">
+    <a href="https://ouki.space">ouki.space</a>
+    <a href="https://crates.io/users/Ouki76">crates</a>
 </div>
