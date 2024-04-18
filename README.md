@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="./img/c++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="./img/C++.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="./img/rs.png" title="RS" alt="RS" width="40" height="40"/>&nbsp;
     <img src="./img/linux.png" title="LINUX" alt="LINUX" width="40" height="40"/>&nbsp;
 </div>
